@@ -1,7 +1,7 @@
 #Aprendendo as funções do Git
 ## testando as funcionalidade
 O **Git**
-![GitHub Logo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![GitHub Logo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
 
  é um sistema de controle de versão que, pela sua estrutura interna, é
 umamáquina do tempo extremamente rápida e é um robô de integração bem
