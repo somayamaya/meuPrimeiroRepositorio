@@ -1,7 +1,7 @@
 #Aprendendo as funções do Git
 ## testando as funcionalidade
 
-## GIT## 
+## GIT
 
 ![Git Logo](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
 
@@ -18,11 +18,13 @@ empresas em todo o mundo, inclusive no Brasil.
 Atualmente, conhecer bem como utilizar o Git é uma habilidade importante
 para uma carreira bem-sucedida no desenvolvimento de software.
 
-##GITHUB##
+## GITHUB
 
 
 
 ![GitHub Logo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
+
  **GitHub** é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
 
  
