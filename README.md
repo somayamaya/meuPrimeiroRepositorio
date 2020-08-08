@@ -11,3 +11,6 @@ outros projetos de código aberto. O Git também é bastante utilizado em
 empresas em todo o mundo, inclusive no Brasil.
 Atualmente, conhecer bem como utilizar o Git é uma habilidade importante
 para uma carreira bem-sucedida no desenvolvimento de software.
+
+**GitHub**
+ é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
