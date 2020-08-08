@@ -1,9 +1,12 @@
 #Aprendendo as funções do Git
 ## testando as funcionalidade
-O **Git**
+
+## GIT## 
+
 ![Git Logo](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
 
- é um sistema de controle de versão que, pela sua estrutura interna, é
+
+O **Git** é um sistema de controle de versão que, pela sua estrutura interna, é
 umamáquina do tempo extremamente rápida e é um robô de integração bem
 competente.
 Foi criado em 2005 por _Linus Torvalds_, o mesmo criador do Linux, que
@@ -15,8 +18,11 @@ empresas em todo o mundo, inclusive no Brasil.
 Atualmente, conhecer bem como utilizar o Git é uma habilidade importante
 para uma carreira bem-sucedida no desenvolvimento de software.
 
-**GitHub**
+##GITHUB##
+
+
+
 ![GitHub Logo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
- é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+ **GitHub** é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
 
  
